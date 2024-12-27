@@ -17,7 +17,8 @@ I also love music 🎵, gym 💪 and building Lego 🧱!
 
 ### Skills 🤔
 
-<h6 style="color:grey">Languages & Syntax<h6>
+<h6 style="color:grey">Languages & Syntax</h6>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,15 +26,15 @@ I also love music 🎵, gym 💪 and building Lego 🧱!
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-<h6 style="color:grey">Frontend Development<h6>
+<h6 style="color:grey">Frontend Development</h6>
 
-<h6 style="color:grey">Backend Development<h6>
+<h6 style="color:grey">Backend Development</h6>
 
-<h6 style="color:grey">Deployment<h6>
+<h6 style="color:grey">Deployment</h6>
 
-<h6 style="color:grey">CI/CD<h6>
+<h6 style="color:grey">CI/CD</h6>
 
-<h6 style="color:grey">Development Tools<h6>
+<h6 style="color:grey">Development Tools</h6>
 
 ---
 
