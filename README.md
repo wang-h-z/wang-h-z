@@ -1,7 +1,6 @@
 ## Hi there, I'm Haozhen 👋
 
 I'm a Y2 Computer Science Student from National University of Singapore. 
-I enjoy developing useful applications and learning about new technologies.
 
 Find out more about me [here]()!
 
