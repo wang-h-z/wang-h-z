@@ -18,7 +18,7 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 
 ### Music I love 🎤 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://haozhen.vercel.app/api/spotify)](https://open.spotify.com/user/haozhen)
 
 ---
 
