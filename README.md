@@ -18,7 +18,7 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 
 ### Music I love 🎤 
 
-[![Spotify](https://haozhen.vercel.app/api/spotify)](https://open.spotify.com/user/haozhen)
+[![Spotify](https://wang-h-z.vercel.app/api/spotify)](https://open.spotify.com/user/haozhen)
 
 ---
 
