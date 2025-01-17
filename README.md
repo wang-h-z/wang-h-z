@@ -9,7 +9,7 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 
 ---
 
-### I'm currently working on ...
+### I'm currently working on ... 🤓
 
 * [C++ Stock Analyser]()
 * Full Stack Study Companion App 
