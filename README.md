@@ -16,7 +16,7 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 
 ---
 
-### What I'm currently listening to ... 🎤 
+### I'm currently listening to ... 🎤 
 
 [![Spotify](https://githubplaying-henna.vercel.app/api/spotify)](https://open.spotify.com/user/11173841254)
 
