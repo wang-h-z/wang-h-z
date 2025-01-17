@@ -18,7 +18,7 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 
 ### Music I love 🎤 
 
-[![Spotify](https://11173841254.vercel.app/api/spotify)](https://open.spotify.com/user/11173841254)
+[![Spotify](https://githubplaying-henna.vercel.app/api/spotify)](https://open.spotify.com/user/11173841254)
 
 ---
 
