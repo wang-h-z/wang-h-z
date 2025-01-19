@@ -2,7 +2,7 @@
 
 I'm a Y2 Computer Science Student from National University of Singapore. 
 
-Find out more about me [here](https://portfolio-website-seven-tau-49.vercel.app/)!
+Find out more about me [here](https://wang-h-z.vercel.app/)!
 
 I love music 🎵, gym 💪 and building Lego 🧱!
 
