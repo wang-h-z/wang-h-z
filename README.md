@@ -11,8 +11,8 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 
 ### I'm currently working on ... 🤓
 
-* [C++ Stock Analyser]()
-* Full Stack Study Companion App 
+* My own Blockhain (for fun)
+* Full Stack Study Companion App (for fun)
 
 ---
 
