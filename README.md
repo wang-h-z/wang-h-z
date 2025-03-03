@@ -12,7 +12,7 @@ I love music 🎵, gym 💪 and building Lego 🧱!
 ### I'm currently working on ... 🤓
 
 * My own Blockhain (for fun)
-* Full Stack Study Companion App (for fun)
+* AI Dermatologist (for my school module)
 
 ---
 
