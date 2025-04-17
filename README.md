@@ -11,7 +11,6 @@ I love music 🎵, gym 💪 and Pokemon!
 
 ### I'm currently working on ... 🤓
 
-* My own Blockhain (for fun)
 * AI Dermatologist (for my school module)
 
 ---
