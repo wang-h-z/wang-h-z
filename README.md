@@ -13,7 +13,6 @@ I love music 🎵, gym 💪 and Pokemon!
 
 * AI Dermatologist (for my school module)
 * Refining my portfolio-website
-* Stock Analysis + Prediction System 
 
 ---
 
