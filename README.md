@@ -24,6 +24,6 @@ I love music 🎵, gym 💪 and Pokemon!
 
 ### How to reach me 📫
 
-You can take a look at my resume [here]()!
+You can take a look at my resume [here](./2026%20resume.pdf)!
 
 
