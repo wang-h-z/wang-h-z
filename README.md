@@ -1,6 +1,6 @@
 ## Hi there, I'm Haozhen 👋
 
-I'm a Y2 Computer Science Student from National University of Singapore. 
+I'm a Y3 Computer Science Student from National University of Singapore. 
 
 Find out more about me [here](https://wang-h-z.vercel.app/)!
 
