@@ -11,7 +11,8 @@ I love music 🎵, gym 💪 and Pokemon!
 
 ### I'm currently working on ... 🤓
 
-* AI Dermatologist (for my school module)
+* AI Dermatologist
+* Building stepsys (i wna get good at system design)
 * Refining my portfolio-website
 
 ---
