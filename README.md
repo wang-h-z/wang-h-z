@@ -4,7 +4,7 @@ I'm a Y3 Computer Science Student from National University of Singapore.
 
 Find out more about me [here](https://wang-h-z.vercel.app/)!
 
-I love music 🎵, gym 💪 and Lego!
+I love music 🎵 and gym 💪 !
 
 
 ---
@@ -12,7 +12,7 @@ I love music 🎵, gym 💪 and Lego!
 ### I'm currently working on ... 🤓
 
 * Refining my portfolio-website
-* Landing another internship...
+* Learning C++
   
 ---
 
