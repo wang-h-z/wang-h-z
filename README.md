@@ -12,7 +12,7 @@ I love music 🎵 and gym 💪 !
 ### I'm currently working on ... 🤓
 
 * Refining my portfolio-website
-* Making a relational DB using C++
+* Building a relational DB using C++
   
 ---
 
