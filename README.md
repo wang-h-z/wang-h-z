@@ -13,6 +13,7 @@ I love music 🎵 and gym 💪 !
 
 * Refining my portfolio-website
 * Building a relational DB using C++
+* Trying out Codeforces cuz CP (competitve programming) looks interesting (im not a sweat)
   
 ---
 
