@@ -25,6 +25,6 @@ i love music 🎵 and gym 💪 !
 
 ### how to reach me 📫
 
-you can take a look at my resume [here](https://wang-h-z.github.io/wang-h-z/resume.pdf)
+you can take a look at my resume [here](https://drive.google.com/file/d/1VJRimffa-fER4dXEQbPe25VH4yEzE2Vi/view?usp=drive_link)
 
 
