@@ -6,7 +6,6 @@ find out more about me [here](https://wang-h-z.vercel.app/)!
 
 i love music 🎵 and gym 💪 !
 
-
 ---
 
 ### i'm currently working on ... 🤓
