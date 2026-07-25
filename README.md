@@ -17,6 +17,6 @@ i love music 🎵 and gym 💪 !
 
 ### how to reach me 📫
 
-you can take a look at my resume [here](https://drive.google.com/file/d/1jCJQcFJKLezqE18qjpv3O5oC_0-kkEg2/view?usp=drive_link)
+you can take a look at my resume [here](https://drive.google.com/file/d/1Qs35kjFS4O0LAiHk66I6ZnSGZensmQd8/view?usp=drive_link)
 
 
