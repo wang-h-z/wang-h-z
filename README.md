@@ -15,14 +15,8 @@ i love music 🎵 and gym 💪 !
   
 ---
 
-### i'm currently listening to ... 🎤 
-
-[![Spotify](https://githubplaying-henna.vercel.app/api/spotify)](https://open.spotify.com/user/11173841254)
-
----
-
 ### how to reach me 📫
 
-you can take a look at my resume [here](https://drive.google.com/file/d/1VJRimffa-fER4dXEQbPe25VH4yEzE2Vi/view?usp=drive_link)
+you can take a look at my resume [here](https://drive.google.com/file/d/1jCJQcFJKLezqE18qjpv3O5oC_0-kkEg2/view?usp=drive_link)
 
 
